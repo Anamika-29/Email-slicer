@@ -1,2 +1,2 @@
 # Email-slicer
-Email slicing application made using python.
+Email slicing application made using python
